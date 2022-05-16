@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Section
+{
+  
+}
+
+.Title
+{
+  width: 100%;
+  position: sticky;
+  top:-500px;
+  background-image:url("./images/apple-pie.jpg");
+  height: 70vh;
+}
+
+.TitleText
+{
+  position: sticky;
+  top: 30%;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.TitleText > h1
+{
+  color:white;
+  font-size: 80px;
+  font-weight: 100;
+  font-family: Tahoma, sans-serif;
+
+}
+
+.Description
+{
+  height: 250px;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.Ingredients
+{
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.Directions
+{
+  height: 270px;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.ContentImage
+{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+p,li
+{
+  font-size: 25px;
+  text-align: justify;
+}
